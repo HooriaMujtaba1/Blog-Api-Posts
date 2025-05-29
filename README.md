@@ -71,6 +71,7 @@ This project is available for learning, personal, and educational use. You are f
 ## 👤 Author
 
 Project by: Hooria Mujtaba
+
 Python CLI App:  Blog API – Endpoints for list/create blog posts.
 
 
