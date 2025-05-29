@@ -53,9 +53,24 @@ manage.py – Django CLI management script
 
 
 git clone https://github.com/HooriaMujtaba1/Blog-Api-Posts.git
+
 cd blog_project
 
 ## 📬 Contact
 
 For questions or suggestions, reach out to hooriamughal275@gmail.com
+
+## 📸 Example Screenshot
+
+![Screenshot (455)](https://github.com/user-attachments/assets/977263ac-8fc0-421c-84c4-d351d3d8f2b8)
+
+## 📄 License
+
+This project is available for learning, personal, and educational use. You are free to use, modify, and distribute it.
+
+## 👤 Author
+
+Project by: Hooria Mujtaba
+Python CLI App:  Blog API – Endpoints for list/create blog posts.
+
 
