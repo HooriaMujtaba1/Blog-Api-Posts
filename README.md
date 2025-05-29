@@ -20,18 +20,18 @@ A simple and secure RESTful API for managing blog posts, built using **Django** 
 blog_project/
 │
 ├── blog/ # Main app
-│ ├── migrations/
-│ ├── admin.py
-│ ├── models.py
-│ ├── serializers.py
-│ ├── views.py
-│ ├── urls.py
+│ ├── migrations/ # Database migration files
+│ ├── admin.py # Admin panel registration
+│ ├── models.py # Post model definition
+│ ├── serializers.py # DRF serializers for the Post model
+│ ├── views.py # ViewSets for Post API
+│ ├── urls.py # App-level API routing
 │
-├── blog_project/
-│ ├── settings.py
-│ ├── urls.py
+├── blog_project/ # Project configuration
+│ ├── settings.py # Django settings
+│ ├── urls.py # Root URL routing
 │
-├── manage.py
+├── manage.py # Django CLI management script
 
 
 
