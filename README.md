@@ -20,15 +20,15 @@ A simple and secure RESTful API for managing blog posts, built using **Django** 
 ### 1. Clone the repository
 
 
-git clone https://github.com/HooriaMujtaba1/Blog-Api-Posts.git
+    git clone https://github.com/HooriaMujtaba1/Blog-Api-Posts.git
 
-cd blog_project
+    cd blog_project
 
 ### 2. Create a Virtual Environment 
 
-python -m venv venv
+    python -m venv venv
 
-source venv/bin/activate    # On Windows: venv\Scripts\activate
+    source venv/bin/activate    # On Windows: venv\Scripts\activate
 
 ### 3. Install Dependencies 
 
