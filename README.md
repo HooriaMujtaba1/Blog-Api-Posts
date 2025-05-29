@@ -15,38 +15,6 @@ A simple and secure RESTful API for managing blog posts, built using **Django** 
 
 ---
 
-## 📁 Project Structure
-
-blog_project/
-
-Contains the entire Django project structure.
-
-blog/ – Main App
-
-migrations/ – Database migration files
-
-admin.py – Admin panel registration
-
-models.py – Post model definition
-
-serializers.py – DRF serializers for the Post model
-
-views.py – ViewSets for Post API
-
-urls.py – App-level API routing
-
-blog_project/ – Project Configuration
-
-settings.py – Django settings
-
-urls.py – Root URL routing
-
-manage.py – Django CLI management script
-
-
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
@@ -55,6 +23,15 @@ manage.py – Django CLI management script
 git clone https://github.com/HooriaMujtaba1/Blog-Api-Posts.git
 
 cd blog_project
+
+##  Create a Virtual Environment
+
+python -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
+
+##   Install Dependencies
+
+
 
 ## 📬 Contact
 
