@@ -32,21 +32,21 @@ A simple and secure RESTful API for managing blog posts, built using **Django** 
 
 ### 3. Install Dependencies 
 
-pip install django djangorestframework
+    pip install django djangorestframework
 
 ### 4.  Run Migrations
 
-python manage.py makemigrations
+    python manage.py makemigrations
 
-python manage.py migrate
+    python manage.py migrate
 
 ### 5.  Create Superuser (Optional)
 
-python manage.py createsuperuser
+    python manage.py createsuperuser
 
 ### 6.   Run the Server
 
-python manage.py runserver
+    python manage.py runserver
 
 ## 📬 Contact
 
