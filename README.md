@@ -62,7 +62,8 @@ For questions or suggestions, reach out to hooriamughal275@gmail.com
 
 ## 📸 Example Screenshot
 
-![Screenshot (455)](https://github.com/user-attachments/assets/977263ac-8fc0-421c-84c4-d351d3d8f2b8)
+![Screenshot (455)](https://github.com/user-attachments/assets/b7635603-0725-4eab-913b-7fffc37634ad)
+
 
 ## 📄 License
 
