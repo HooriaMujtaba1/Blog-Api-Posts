@@ -24,14 +24,29 @@ git clone https://github.com/HooriaMujtaba1/Blog-Api-Posts.git
 
 cd blog_project
 
-##  Create a Virtual Environment
+### 2. Create a Virtual Environment 
 
 python -m venv venv
+
 source venv/bin/activate    # On Windows: venv\Scripts\activate
 
-##   Install Dependencies
+### 3. Install Dependencies 
 
+pip install django djangorestframework
 
+### 4.  Run Migrations
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+### 5.  Create Superuser (Optional)
+
+python manage.py createsuperuser
+
+### 6.   Run the Server
+
+python manage.py runserver
 
 ## 📬 Contact
 
